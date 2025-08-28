@@ -17,4 +17,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/wisnu-nugroho-908a19251/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wisnu Nugroho"/></a>
 <a href="https://www.instagram.com/wisnuugrh" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wisnuugrh"/></a>
-<a href="mailto:wisnuenunugroho@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="wisnugroho14"/></a>
+<a href="mailto:wisnuenunugroho@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="wisnugroho14"/></a></p>
