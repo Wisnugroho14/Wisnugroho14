@@ -4,7 +4,7 @@
 
 - 🔭 My Portfolio [My Portfolio](https://wisnugroho14.github.io/portfolio/)
 
-- 🌱 I’m currently learning **Javascript, Python**
+- 🌱 I’m currently learning **Javascript and Python**
 
 - 📫 How to reach me **wisnuenunugroho@gmail.com**
 </p>
